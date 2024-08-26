@@ -13,3 +13,8 @@
 ## Requirements
 - python 3.10
 - pip install -r requirements.txt
+
+## Code references
+- https://github.com/facebookresearch/mbrl-lib/tree/main
+- https://github.com/yaswanth1701/Trajectory-Optimization
+- https://github.com/imgeorgiev/ddp/tree/main
