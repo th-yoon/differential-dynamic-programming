@@ -3,8 +3,7 @@
 ## Systems
 - cartpole
 - inverted pendulum
-- 2D Quadcopter (in progress)
-- 3D Quadcopter (in progress)
+- 3D Quadcopter: stabilization
 
 ## Features
 - partial derivatives using `jax`
